@@ -1,4 +1,6 @@
-
+body{
+    font-family: sans-serif;
+}
 h1{
     font-weight: bold;
     
@@ -7,6 +9,7 @@ td, th, table{
     border-collapse: collapse;   
     border:2px solid black;
     text-align: center;
+    padding:8px;
     
 }
  
